@@ -7,7 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "homepage": "https://github.com/Bajaa/testing_three.js.git",
-	"publish": ""gh-pages -d myproject"
+	"publish": ""gh-pages -d ./"
   },
   "devDependencies": {
     "vite": "^2.9.5"
